@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Cygnus",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/gay_men",
-		"particle": "item/gay_men"
+		"0": "cpft:item/aromantic",
+		"particle": "cpft:item/aromantic"
 	},
 	"elements": [
 		{

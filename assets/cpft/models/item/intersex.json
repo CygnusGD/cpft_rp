@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Cygnus",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/intersex",
-		"particle": "item/intersex"
+		"0": "cpft:item/intersex",
+		"particle": "cpft:item/intersex"
 	},
 	"elements": [
 		{

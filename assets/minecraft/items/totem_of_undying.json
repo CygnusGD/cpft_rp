@@ -1,0 +1,52 @@
+{
+    "model": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {"when": {"text": "aroace"}, "model": {"type": "minecraft:model", "model": "cpft:item/aroace"}},
+        {"when": {"text": "Aroace"}, "model": {"type": "minecraft:model", "model": "cpft:item/aroace"}},
+        {"when": {"text": "aromantic"}, "model": {"type": "minecraft:model", "model": "cpft:item/aromantic"}},
+        {"when": {"text": "Aromantic"}, "model": {"type": "minecraft:model", "model": "cpft:item/aromantic"}},
+        {"when": {"text": "asexual"}, "model": {"type": "minecraft:model", "model": "cpft:item/asexual"}},
+        {"when": {"text": "Asexual"}, "model": {"type": "minecraft:model", "model": "cpft:item/asexual"}},
+        {"when": {"text": "ace"}, "model": {"type": "minecraft:model", "model": "cpft:item/asexual"}},
+        {"when": {"text": "Ace"}, "model": {"type": "minecraft:model", "model": "cpft:item/asexual"}},
+        {"when": {"text": "bisexual"}, "model": {"type": "minecraft:model", "model": "cpft:item/bisexual"}},
+        {"when": {"text": "Bisexual"}, "model": {"type": "minecraft:model", "model": "cpft:item/bisexual"}},
+        {"when": {"text": "bi"}, "model": {"type": "minecraft:model", "model": "cpft:item/bisexual"}},
+        {"when": {"text": "Bi"}, "model": {"type": "minecraft:model", "model": "cpft:item/bisexual"}},
+        {"when": {"text": "gay"}, "model": {"type": "minecraft:model", "model": "cpft:item/gay"}},
+        {"when": {"text": "Gay"}, "model": {"type": "minecraft:model", "model": "cpft:item/gay"}},
+        {"when": {"text": "intersex"}, "model": {"type": "minecraft:model", "model": "cpft:item/intersex"}},
+        {"when": {"text": "Intersex"}, "model": {"type": "minecraft:model", "model": "cpft:item/intersex"}},
+        {"when": {"text": "lesbian"}, "model": {"type": "minecraft:model", "model": "cpft:item/lesbian"}},
+        {"when": {"text": "Lesbian"}, "model": {"type": "minecraft:model", "model": "cpft:item/lesbian"}},
+        {"when": {"text": "nonbinary"}, "model": {"type": "minecraft:model", "model": "cpft:item/nonbinary"}},
+        {"when": {"text": "Nonbinary"}, "model": {"type": "minecraft:model", "model": "cpft:item/nonbinary"}},
+        {"when": {"text": "nb"}, "model": {"type": "minecraft:model", "model": "cpft:item/nonbinary"}},
+        {"when": {"text": "Nb"}, "model": {"type": "minecraft:model", "model": "cpft:item/nonbinary"}},
+        {"when": {"text": "NB"}, "model": {"type": "minecraft:model", "model": "cpft:item/nonbinary"}},
+        {"when": {"text": "enby"}, "model": {"type": "minecraft:model", "model": "cpft:item/nonbinary"}},
+        {"when": {"text": "Enby"}, "model": {"type": "minecraft:model", "model": "cpft:item/nonbinary"}},
+        {"when": {"text": "pansexual"}, "model": {"type": "minecraft:model", "model": "cpft:item/pansexual"}},
+        {"when": {"text": "Pansexual"}, "model": {"type": "minecraft:model", "model": "cpft:item/pansexual"}},
+        {"when": {"text": "pan"}, "model": {"type": "minecraft:model", "model": "cpft:item/pansexual"}},
+        {"when": {"text": "Pan"}, "model": {"type": "minecraft:model", "model": "cpft:item/pansexual"}},
+        {"when": {"text": "progress"}, "model": {"type": "minecraft:model", "model": "cpft:item/progress"}},
+        {"when": {"text": "Progress"}, "model": {"type": "minecraft:model", "model": "cpft:item/progress"}},
+        {"when": {"text": "queer"}, "model": {"type": "minecraft:model", "model": "cpft:item/queer"}},
+        {"when": {"text": "Queer"}, "model": {"type": "minecraft:model", "model": "cpft:item/queer"}},
+        {"when": {"text": "pride"}, "model": {"type": "minecraft:model", "model": "cpft:item/queer"}},
+        {"when": {"text": "Pride"}, "model": {"type": "minecraft:model", "model": "cpft:item/queer"}},
+        {"when": {"text": "transgender"}, "model": {"type": "minecraft:model", "model": "cpft:item/transgender"}},
+        {"when": {"text": "Transgender"}, "model": {"type": "minecraft:model", "model": "cpft:item/transgender"}},
+        {"when": {"text": "trans"}, "model": {"type": "minecraft:model", "model": "cpft:item/transgender"}},
+        {"when": {"text": "Trans"}, "model": {"type": "minecraft:model", "model": "cpft:item/transgender"}}
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/totem_of_undying"
+      }
+    }
+  }

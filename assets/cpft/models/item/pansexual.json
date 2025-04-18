@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Cygnus",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/pan",
-		"particle": "item/pan"
+		"0": "cpft:item/pansexual",
+		"particle": "cpft:item/pansexual"
 	},
 	"elements": [
 		{

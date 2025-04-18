@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Cygnus",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/aroace",
-		"particle": "item/aroace"
+		"0": "cpft:item/bisexual",
+		"particle": "cpft:item/bisexual"
 	},
 	"elements": [
 		{
